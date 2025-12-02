@@ -52,7 +52,7 @@ Você pode me encontrar nas seguintes redes:
   <a href="https://api.whatsapp.com/send?phone=54996272394" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="www.youtube.com/@nexuscleo" target="_blank">
+  <a href="https://www.youtube.com/@nexuscleo" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
   </a>
 </p>
