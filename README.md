@@ -57,4 +57,4 @@ Você pode me encontrar nas seguintes redes:
   </a>
 </p>
 
-[![Cleomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuscleo)](https://github.com/anuraghazra/github-readme-stats)
+[![Cleomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuscleo)](https://github.com/nexuscleo/github-readme-stats)
