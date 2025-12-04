@@ -37,6 +37,9 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos. Sinta-se à
 Você pode me encontrar nas seguintes redes:
 
 <p align="left">
+  <a href="https://www.instagram.com/nexuscleo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a><br>
   <a href="https://www.linkedin.com/in/nexuscleo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a><br>
@@ -45,9 +48,6 @@ Você pode me encontrar nas seguintes redes:
   </a><br>
   <a href="mailto:nexuscleo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a><br>
-  <a href="https://www.instagram.com/nexuscleo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a><br>
   <a href="https://api.whatsapp.com/send?phone=54996272394" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
