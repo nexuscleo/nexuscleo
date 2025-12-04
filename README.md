@@ -58,3 +58,5 @@ Você pode me encontrar nas seguintes redes:
 </p>
 
 [![Cleomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuscleo)](https://github.com/nexuscleo/github-readme-stats)
+[![Cleomar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nexuscleo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Cleomar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nexuscleo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
