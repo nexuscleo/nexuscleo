@@ -26,9 +26,9 @@ Estou constantemente buscando expandir meu conhecimento e atualmente estou me ap
 
 Aqui estão alguns dos projetos que desenvolvi durante meus estudos. Sinta-se à vontade para explorar!
 
-- **[Nome do Projeto 1]**: Uma breve descrição do seu projeto. (link para o repositório)
-- **[Nome do Projeto 2]**: Uma breve descrição do seu projeto. (link para o repositório)
-- **[Nome do Projeto 3]**: Uma breve descrição do seu projeto. (link para o repositório)
+- **[Projeto 1]**: Descrição. (link para o repositório)
+- **[Projeto 2]**: Descrição. (link para o repositório)
+- **[Projeto 3]**: Descrição. (link para o repositório)
 
 ---
 
