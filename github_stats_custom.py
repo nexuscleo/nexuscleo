@@ -2,7 +2,7 @@ import requests
 import os
 
 # CONFIGURAÇÃO
-USER = "nexuscleo"
+USER = "NEXUSCLEO"
 TOKEN = os.getenv("GITHUB_TOKEN")
 
 def get_github_data():
