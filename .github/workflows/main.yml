@@ -32,3 +32,21 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # ... (passos que você já tem)
+
+      - name: Instalar Requests (necessário para o novo script)
+        run: pip install requests
+
+      - name: Gerar Minha Nova Stats Customizada
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_STATS_TOKEN }} # Use a Secret que você criou
+        run: python github_stats_custom.py
+
+      - name: Commit e Push de todas as mudanças
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .  # O ponto final diz: "salve tudo que mudou, inclusive a nova svg"
+          git commit -m "Update profile badges" || exit 0
+          git push
