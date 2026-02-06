@@ -58,4 +58,3 @@ Você pode me encontrar nas seguintes redes:
 </p>
 
 ![Stats Custom](./profile-stats-custom.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexuscleo)](https://github.com/anuraghazra/github-readme-stats)
