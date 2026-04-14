@@ -17,7 +17,7 @@ Já tenho experiência com as seguintes tecnologias:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![PYTHON]()
+- ![PYTHON](https://img.shields.io/badge/python-%23FFD439.svg?style=for-the-badge&logo=python&logoColor=white)
 
 Estou constantemente buscando expandir meu conhecimento e atualmente estou me aprofundando em frameworks e tecnologias de back-end para me tornar um desenvolvedor full-stack completo.
 
