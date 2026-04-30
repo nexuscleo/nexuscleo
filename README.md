@@ -1,8 +1,8 @@
 # Olá, eu sou Cleomar! 👋
 
 <p align="left">
-  <a href="https://github.com/nexuscleo/nexuscleo/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/nexuscleo/nexuscleo/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <a href="https://github.com/nexuscleo/nexuscleo/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/nexuscleo/nexuscleo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
   </a>
 </p>
 
