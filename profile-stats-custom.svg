@@ -8,13 +8,13 @@
       <rect x="0.5" y="0.5" rx="10" width="449" height="149" fill="#0d1117" stroke="#30363d"/>
       <text x="25" y="35" class="header">🚀 NEXUSCLEO Stats (Custom)</text>
       <g transform="translate(25, 65)">
-        <text x="0" y="0" class="stat">Commits: <tspan class="bold">383</tspan></text>
+        <text x="0" y="0" class="stat">Commits: <tspan class="bold">385</tspan></text>
         <text x="0" y="25" class="stat">Stars: <tspan class="bold">1</tspan></text>
-        <text x="0" y="50" class="stat">Repos: <tspan class="bold">30</tspan></text>
+        <text x="0" y="50" class="stat">Repos: <tspan class="bold">31</tspan></text>
       </g>
       <circle cx="360" cy="75" r="40" stroke="#58a6ff" stroke-width="4" fill="transparent" opacity="0.2"/>
       <text x="360" y="82" text-anchor="middle" class="header" style="font-size: 22px;">Lvl 3</text>
       <rect x="25" y="130" width="400" height="6" rx="3" fill="#30363d"/>
-      <rect x="25" y="130" width="332" height="6" rx="3" fill="#58a6ff"/>
+      <rect x="25" y="130" width="340" height="6" rx="3" fill="#58a6ff"/>
     </svg>
     
