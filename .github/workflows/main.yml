@@ -12,11 +12,9 @@ jobs:
       contents: write
 
     steps:
+      # O GITHUB_TOKEN embutido é suficiente para fazer checkout do próprio repo
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.MY_STATS_TOKEN }}
-          persist-credentials: true
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -24,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00bfff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,6 +32,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          # MY_STATS_TOKEN é necessário aqui pois o GITHUB_TOKEN não pode fazer push para branches de output em alguns casos
           GITHUB_TOKEN: ${{ secrets.MY_STATS_TOKEN }}
 
       - name: Instalar Requests (necessário para o script de stats)
