@@ -39,12 +39,12 @@ jobs:
 
       - name: Gerar Minha Nova Stats Customizada
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW }}
         run: python github_stats_custom.py
 
       - name: Commit e Push de todas as mudanças
         env:
-          MY_STATS_TOKEN: ${{ secrets.MY_STATS_TOKEN }}
+          MY_STATS_TOKEN: ${{ secrets.WORKFLOW }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
