@@ -31,9 +31,9 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.MY_STATS_TOKEN }}
+          token: ${{ secrets.WORKFLOW }}
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW }}
 
       - name: Instalar Requests (necessário para o script de stats)
         run: pip install requests
@@ -45,11 +45,11 @@ jobs:
 
       - name: Commit e Push de todas as mudanças
         env:
-          MY_STATS_TOKEN: ${{ secrets.WORKFLOW }}
+          MY_TOKEN: ${{ secrets.WORKFLOW }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${MY_STATS_TOKEN}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${MY_TOKEN}@github.com/${{ github.repository }}
           git add .
           git commit -m "Update profile badges" || exit 0
           git push
